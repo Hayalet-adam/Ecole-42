@@ -1,0 +1,5 @@
+Credentials cache: API:3228B29-C9E7-8A80-3BBBB3C33A
+        Principal: m@42ecole.COM.TR
+
+  Issued                Expires               Principal
+Feb  9 21:50:14 2020  Feb 10 07:49:09 2020  ktgt/42.COM.TR@42.COM.TR
