@@ -1,0 +1,3 @@
+
+
+patch ./a -o ./b < sw.diff

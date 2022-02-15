@@ -1,0 +1,5 @@
+Credentials cache: API:34228B29-C9E7-4DE7-8A80-3BBBB3C1333A
+        Principal: mcal@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb  9 21:50:14 2022  Feb 10 07:49:09 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
