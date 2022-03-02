@@ -1,5 +1,5 @@
 Herkese Merhaba;
-Mac kısa komutlar
+Terminal kısa komutlar
 
 1-) ln => Dosya adı + Bağlantı dosya adını yazın (örnek ln ex03 ex05)
 
@@ -12,10 +12,15 @@ Desktop + ana dosya içine giriş cat */* bütün dosyaları terminal ekranına 
 4-)Chmot 455 testshell00 
 
 R -4 x - 1 w - 2 değerlerini taşır.
+
 5-) mkdir klasör oluşturma  - touch dosya oluşturuyor.
+
 6-) ssh -keygen  klist > klist.txt
+
 7-) mkfile byt atama 
+
 8-) pwd bulunduğun konum
+
 9-) cd "dosya adı "  -- cd .. bir geri -- chmod dosya izinleri -- touch dosya açma 
 Vim dosya içine girme --
 
